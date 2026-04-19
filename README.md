@@ -1,0 +1,1 @@
+for now, i don't have much to say, but i'll make a proper readme once i get all the parts! 

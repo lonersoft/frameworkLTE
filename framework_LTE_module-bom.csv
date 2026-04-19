@@ -1,0 +1,6 @@
+Name,Purpose,Quantity,Total Cost (USD),Link,Distributor
+"enclosure (expansion card)","actually housing all the components (like the stripped modem)",1,5.00,"https://printlegion.hackclub.com/","hackclub printlegion (so most of the money will go towards postage)"
+"USB-A to USB-C ribbon cable","link the modem's USB port onto the framework USB-C interface on the mobo (i don't have the stuff to actually desolder it and make it clean soz)",1,5.68,"https://www.aliexpress.com/item/1005003510149476.html","AliExpress FR"
+"1mm thermal pad","thermal pad to cool down the modem (shouldn't run that hot anyway)",1,2.00,"https://www.aliexpress.com/item/1005011996909943.html","AliExpress FR"
+"5mm Kapton Tape","to properly shield between the modem and the actual framework frame itself",1,1.16,"https://www.aliexpress.com/item/1005007518587827.html","AliExpress FR"
+"ZTE MF79U dongle","to be ripped apart to only collect the PCB: LTE modem to be then put in the Expansion Card",1,35.72,"https://www.aliexpress.com/item/1005005844914823.html","AliExpress FR"

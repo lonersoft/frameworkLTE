@@ -1,0 +1,1 @@
+i'll probably do software for this like a proper wrapper once i ACTUALLY get this because i can't rly do anything without the product itself
